@@ -21,3 +21,15 @@ body{
 .param {
     text-decoration: none;
 }
+
+#hashtag{
+    font-size: 13px;
+}
+
+.blueBg{
+    background: rgba(66,165,245,0.3)
+}
+
+#hash{
+    color: blue;
+}
