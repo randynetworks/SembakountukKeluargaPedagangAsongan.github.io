@@ -1,0 +1,19 @@
+body{
+    background: #cfd8dc;
+}
+
+.container {
+    background: white;
+    width: 470px;
+}
+
+.fit-image{
+    width: 100%;
+    object-fit: cover;
+    height: 300px; /* only if you want fixed height */
+}
+
+#totalUang{
+    color: #03a9f4;
+    font-size: 18px;
+}
