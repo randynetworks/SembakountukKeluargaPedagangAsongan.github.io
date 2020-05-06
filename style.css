@@ -33,3 +33,13 @@ body{
 #hash{
     color: blue;
 }
+
+#namaOrg, .rounded-circle{
+    float: left;
+    padding-left: 3px;
+}
+
+#identitas{
+    font-size: 13px;
+    color : lightslategray;
+}
