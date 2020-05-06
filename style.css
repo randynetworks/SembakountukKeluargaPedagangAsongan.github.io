@@ -30,6 +30,10 @@ body{
     background: rgba(66,165,245,0.3)
 }
 
+.grayBg{
+    background: rgba(176,190,197,0.3)
+}
+
 #hash{
     color: blue;
 }
@@ -41,5 +45,34 @@ body{
 
 #identitas{
     font-size: 13px;
+    color : lightslategray;
+}
+
+#tgl{
+    float: right;
+    padding-left: 3px;
+}
+#cerita{
+    float: left;
+    padding-left: 3px;
+}
+
+#kabarKosong{
+    color : lightslategray;
+}
+
+.bg_card{
+    background: rgba(176,190,197,0.3);
+    height: 100px;
+    padding: 3px;
+}
+
+#donasi{
+    font-size: 13px;
+    color : lightslategray;
+}
+
+#jam{
+    font-size: 10px;
     color : lightslategray;
 }
